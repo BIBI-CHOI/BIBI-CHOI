@@ -3,7 +3,7 @@
 ### Hi I'm silbia 👍
   </div>
   
-___
+
 <div align=center><h4>📚 STACKS</h4></div>
 
 <div align=center> 
