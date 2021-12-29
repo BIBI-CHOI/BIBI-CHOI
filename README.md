@@ -1,6 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm silbia</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="center">Hi 👋, I'm silbia</h2>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
