@@ -19,3 +19,8 @@
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <br>
 </div>
+
+***
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BIBI-CHOI&theme=gruvbox_light&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BIBI-CHOI&layout=compact)
