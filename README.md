@@ -46,7 +46,6 @@
 <div>
 
   ![BIBI-CHOI's github stats](https://github-readme-stats.vercel.app/api?username=BIBI-CHOI&show_icons=true)
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shbm13)](https://solved.ac/shbm13/)
 <br/>
 </div>
  
