@@ -3,7 +3,7 @@
 ### Hi I'm silbia 👍
   </div>
   
-***********************
+___
 
 <!--
 **BIBI-CHOI/BIBI-CHOI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
