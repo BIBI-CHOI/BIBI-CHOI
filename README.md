@@ -2,7 +2,9 @@
 
 <div align=center> 
 <h5>✍31살에 개발자의 길을 도전하고 있습니다.</h5>
-
+  
+  
+  <br/>
 <h3>✨Tech Stack✨</h3>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -21,6 +23,14 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <br>
-</div>
+  <br/>
+  
+  </div>
+ 
+<h2 align=center></h2>
+
+
+  ![BIBI-CHOI's github stats](https://github-readme-stats.vercel.app/api?username=BIBI-CHOI&show_icons=true)
+[![BIBI-CHOI's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BIBI-CHOI&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/BIBI-CHOI)
 
 
