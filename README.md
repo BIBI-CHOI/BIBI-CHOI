@@ -40,12 +40,11 @@
   <br/>
 </p>
 
+<div align=center>
+  
 [![BIBI-CHOI's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BIBI-CHOI&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/BIBI-CHOI)
-<h2 ></h2>
-
-<div>
-
-  ![BIBI-CHOI's github stats](https://github-readme-stats.vercel.app/api?username=BIBI-CHOI&show_icons=true)
-<br/>
+  
+![BIBI-CHOI's github stats](https://github-readme-stats.vercel.app/api?username=BIBI-CHOI&show_icons=true)
+  
 </div>
  
