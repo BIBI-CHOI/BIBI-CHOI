@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,%20I'm%20silbia&fontSize=90)
 
 ### Who Am I?<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%;">
+- 👔6년간 방산업체 기계연구원으로 일하였던 경험이 있습니다.
 - ✍31살에 개발자의 길을 도전하고 있습니다.
 - 🖥메카융합공학을 전공하고있습니다.
 - 🚗🚗현재 경남 창원에서 거주중이지만 어디든 근무 가능합니다.
@@ -8,8 +9,9 @@
 ### Experience
 - 🎓창원토월고등학교 졸업 (2007.03 ~ 2010.02)
 - 🎓마산창신대학 경찰행정학과 졸업 (2010.03 ~ 2013.02)
-- 🎓창원대학교 메카융합공학과 재학 (2018.03 ~ 2023.02 졸업예정)
+- ⚙대한시스텍(주) 주임연구원 (2015.06 ~ 2021.06)
 - 📚비트캠프 수료 (2021.07 ~ 2021.12)
+- 🎓창원대학교 메카융합공학과 재학 (2018.03 ~ 2023.02 졸업예정)
 
 ### What I Like
 - 🏖 캠핑
