@@ -1,4 +1,4 @@
-<h2 align=center>Hi 👋, I'm silbia</h2>
+<h2 align=center>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%;">, I'm silbia</h2>
 
 <div align=center> 
 <h5>✍31살에 개발자의 길을 도전하고 있습니다.</h5>
