@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,%20I'm%20silbia&fontSize=90)
 
 ### Who Am I?<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%;">
-- 👔6년간 방산업체 기계연구원으로 일하였던 경험이 있습니다.
-
 - ✍31살에 개발자의 길을 도전하고 있습니다.
 
-- 🖥메카융합공학을 전공하고있습니다.
+- 👔6년간 기계연구원으로 일하였던 경험이 있습니다.
+
+- 😁업무경험을 통한 노하우로 빠르게 적응이 가능합니다.
 
 - 🚗🚗현재 경남 창원에서 거주중이지만 어디든 근무 가능합니다.
 <br/>
